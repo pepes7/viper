@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Víper</string>
+
+    <string-array name="courses">
+        <item>Aux. Administrativo</item>
+        <item>Aux. de Logística</item>
+        <item>Aux. de Produção</item>
+        <item>Aux. de Repositor Mercadorias</item>
+        <item>Aux. de Vendas</item>
+        <item>Conservação e Limpeza</item>
+        <item>Mecânica de Motos</item>
+        <item>Mecânica em Manutenção</item>
+        <item>Mecânica de Veicular</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Semanal</item>
+    </string-array>
+
+    <string-array name="shift">
+        <item>Matutino</item>
+        <item>Vespertino</item>
+    </string-array>
+
+    <string-array name="type_question">
+        <item>Múltipla escolha</item>
+        <item>Descritiva</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

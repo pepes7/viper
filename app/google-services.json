@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523396561342",
+    "project_id": "viper-47d68",
+    "storage_bucket": "viper-47d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523396561342:android:d8803889f0c196e2f8e1ef",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523396561342-fh8e6ai2o6el3j19k8ebmlj4gchhsotf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "15cbf4f0b996fb3a9780e551edb9de980a7b256d"
+          }
+        },
+        {
+          "client_id": "523396561342-0oove5oq3tfg5968jpegahould3eg62t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPzJBNEgTk8lWPBLj67rnhduK3EVXVZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523396561342-0oove5oq3tfg5968jpegahould3eg62t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

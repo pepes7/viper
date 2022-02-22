@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/background_login_cadastro.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/btn_sair.xml" value="0.28359375" />
+        <entry key="app/src/main/res/drawable/button_shape_default.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/buttonshape.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/buttonshapeIcon.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/buttonshape_icon.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/card_model.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_add_black.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_add_bottom.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_add_circle_outline_black_24dp__1__1.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_back_login.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_cpf.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/ic_description_bottom.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_group_34551.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_image_bottom.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_list.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/ic_options.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_outline_description_24.xml" value="0.28203125" />
+        <entry key="app/src/main/res/drawable/ic_splash.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_text_bottom.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_trash.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/image_splash.xml" value="0.5" />
+        <entry key="app/src/main/res/font/poppins.xml" value="0.52109375" />
+        <entry key="app/src/main/res/layout/activity_correct_evaluation.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_evaluation.xml" value="0.34646302250803857" />
+        <entry key="app/src/main/res/layout/activity_list_students_response.xml" value="0.47578125" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_prof_home.xml" value="0.47578125" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.4914196567862715" />
+        <entry key="app/src/main/res/layout/activity_register_evaluation.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_student_home.xml" value="0.6055469953775039" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_evaluation.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_evaluation_student.xml" value="0.47578125" />
+        <entry key="app/src/main/res/layout/lis_correct_question.xml" value="0.47578125" />
+        <entry key="app/src/main/res/layout/list_answer_question.xml" value="0.33671875" />
+        <entry key="app/src/main/res/layout/list_class.xml" value="0.5944055944055944" />
+        <entry key="app/src/main/res/layout/list_evaluations.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/list_resgister_question.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/toolbar_evaluation.xml" value="0.47578125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
